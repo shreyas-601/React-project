@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Software Engineer",
+      "company": "Google",
+      "location": "Mountain View, CA",
+      "logo": "./src/assets/logos/google.webp"
+    },
+    {
+      "id": 2,
+      "title": "Frontend Developer",
+      "company": "Facebook",
+      "location": "Menlo Park, CA",
+      "logo": "./src/assets/logos/facebook.webp"
+    },
+    {
+      "id": 3,
+      "title": "Data Scientist",
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "logo": "./src/assets/logos/amazon.webp"
+    },
+    {
+      "id": 4,
+      "title": "Product Manager",
+      "company": "Microsoft",
+      "location": "Redmond, WA",
+      "logo": "./src/assets/logos/microsoft.webp"
+    },
+    {
+      "id": 5,
+      "title": "Backend Developer",
+      "company": "Netflix",
+      "location": "Los Gatos, CA",
+      "logo": "./src/assets/logos/netflix.webp"
+    }
+  ]
+  

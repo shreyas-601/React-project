@@ -1,0 +1,21 @@
+.post-card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.author-photo {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.card-footer button {
+  color: #0073b1;
+  text-decoration: none;
+}
+
+.card-footer button:hover {
+  text-decoration: underline;
+}

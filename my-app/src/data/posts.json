@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "username": "John Doe",
+    "userImage": "./src/assets/pic1.jpg",
+    "content": "Loving the journey of web development!",
+    "image": "./src/assets/post1.webp",
+    "likes": 10
+  },
+  {
+    "id": 2,
+    "username": "Jane Smith",
+    "userImage": "./src/assets/pic2.jpg",
+    "content": "React is such a powerful tool!",
+    "image": "./src/assets/post2.webp",
+    "likes": 25
+  }
+]

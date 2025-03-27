@@ -1,0 +1,52 @@
+.jobs-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.jobs-content {
+  flex: 1;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.job-search {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.job-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.job-card {
+  padding: 15px;
+  border-radius: 5px;
+  background: #f8f9fa;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.job-logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.save-job {
+  margin-top: 10px;
+  padding: 8px 12px;
+  border: none;
+  background: #0077b5;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;
+}
+  

@@ -1,0 +1,15 @@
+.create-post-card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: none;
+    border-radius: 10px;
+  }
+  
+  textarea {
+    resize: none;
+  }
+  
+  button {
+    display: block;
+    width: 100%;
+  }
+  

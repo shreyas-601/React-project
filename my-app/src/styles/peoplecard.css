@@ -1,0 +1,43 @@
+.people-card {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: white;
+  margin-bottom: 10px;
+}
+
+.people-card img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.connect-btn {
+  background: #0a66c2;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.connect-btn:hover {
+  background: #004182;
+}
+
+.disconnect-btn {
+  background: red;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.disconnect-btn:hover {
+  background: darkred;
+}
+  

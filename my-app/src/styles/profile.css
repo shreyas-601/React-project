@@ -1,0 +1,37 @@
+.profile-container {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.profile-content {
+  flex: 1;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.profile-header {
+  text-align: center;
+}
+
+.profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.job-title-input, .bio-input {
+  font-family:Arial, Helvetica, sans-serif;
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.user-posts {
+  margin-top: 20px;
+}

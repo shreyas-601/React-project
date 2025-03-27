@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "jobTitle": "Software Engineer at Google",
+      "profilePic": "./src/assets/logos/google.webp"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "jobTitle": "Data Scientist at Facebook",
+      "profilePic": "./src/assets/logos/facebook.webp"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "jobTitle": "Product Manager at Amazon",
+      "profilePic": "./src/assets/logos/amazon.webp"
+    },
+    {
+      "id": 4,
+      "name": "David Lee",
+      "jobTitle": "UX Designer at Microsoft",
+      "profilePic": "./src/assets/logos/microsoft.webp"
+    },
+    {
+      "id": 5,
+      "name": "Emma Wilson",
+      "jobTitle": "Backend Developer at Netflix",
+      "profilePic": "./src/assets/logos/netflix.webp"
+    }
+  ]
+  

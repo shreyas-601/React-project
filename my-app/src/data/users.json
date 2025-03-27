@@ -1,0 +1,20 @@
+[
+  { 
+    "id": 1, 
+    "name": "Alice Johnson", 
+    "photo": "./src/assets/pic1.jpg", 
+    "headline": "Software Engineer" 
+  },
+  { 
+    "id": 2, 
+    "name": "Bob Smith", 
+    "photo": "./src/assets/pic2.jpg", 
+    "headline": "Product Manager" 
+  },
+  { 
+    "id": 3, 
+    "name": "Charlie Brown", 
+    "photo": "./src/assets/pic3.jpg", 
+    "headline": "Data Analyst" 
+  }
+]
